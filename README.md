@@ -1,4 +1,4 @@
-# M1: Statistical Methods Coursework 
+# M1: Machine Learning Coursework
 
 ## Setup Instructions
 
