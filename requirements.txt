@@ -1,0 +1,13 @@
+absl-py==2.1.0
+optuna==4.1.0
+matplotlib==3.9.2
+seaborn==0.13.2
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+tensorflow==2.10.0
+keras==2.10.0
+scipy==1.13.1
+h5py==3.12.1
+pillow==11.0.0
+ipykernel==6.29.5
