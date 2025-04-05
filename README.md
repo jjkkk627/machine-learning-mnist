@@ -1,4 +1,4 @@
-# M1: Machine Learning Coursework
+# M1: Machine Learning
 
 ## Setup Instructions
 
@@ -25,8 +25,5 @@ Three neural network models discussed in the report are saved in a folder called
 
 - A folder `model_2` which contains the saved **Model 2**, its weights, and its saved training history.
 
-## Declaration of Use of AI Tools
-
-No auto-generation tools were used for developing code in this project. 
 
 
