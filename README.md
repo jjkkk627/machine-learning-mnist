@@ -38,4 +38,4 @@ Three neural network models are saved in a folder called `nn_models` which conta
 
 ## Acknowledgments
 
-- This project was originally developed as part of a graduate-level machine learning course.
+- This project was originally developed as part of a graduate-level machine learning course at the University of Cambridge.
